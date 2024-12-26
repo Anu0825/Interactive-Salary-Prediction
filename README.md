@@ -1,6 +1,7 @@
 # Interactive Salary Prediction App
 
 This interactive web application predicts salaries based on years of experience using a linear regression model. Built with Python, Streamlit, and essential data science libraries, this app allows users to explore a dataset, visualize relationships, and predict salaries dynamically.
+
 Author - Anu
 
 ## Features
@@ -14,3 +15,6 @@ Author - Anu
 2. **Train-Test Split**: Divide the dataset for training and testing the model.
 3. **Data Visualization**: Scatterplots and regression lines using Seaborn and Matplotlib.
 4. **Interactive Predictions**: Real-time input for dynamic results via Streamlit.
+
+## Link for My Live App :
+https://interactive-salary-prediction-flgnkrlsbfelpanwhnushb.streamlit.app/
